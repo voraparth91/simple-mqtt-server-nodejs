@@ -1,0 +1,14 @@
+{
+  "name": "simple-mqtt-server-nodejs",
+  "version": "1.0.0",
+  "description": "Demo Server that listens to every messages starting with /api and can respond to client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}
